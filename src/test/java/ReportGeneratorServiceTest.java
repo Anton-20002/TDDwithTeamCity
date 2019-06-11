@@ -1,3 +1,6 @@
+import logic.IReportGenerator;
+import logic.ReportEntity;
+import logic.ReportGeneratorService;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.*;
